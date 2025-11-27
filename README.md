@@ -1,8 +1,6 @@
-# Sophos IMR Advisory Services Questionnaire
+# Secureworks IMR Advisory Services Questionnaire
 
-A modern, interactive web-based questionnaire for Sophos Incident Management and Response (IMR) Advisory Services. Built to help prospects identify their security needs and receive tailored recommendations from the IMR service catalog.
-
-![Sophos](https://www.sophos.com/sites/default/files/2022-02/sophos-logo.svg)
+A modern, interactive web-based questionnaire for Secureworks Incident Management Retainer (IMR) Advisory Services. Built to help prospects identify their security needs and receive tailored recommendations from the IMR service catalog.
 
 ---
 
@@ -57,7 +55,7 @@ A modern, interactive web-based questionnaire for Sophos Incident Management and
 ## 📁 File Structure
 
 ```
-svcs/
+root/
 ├── questionnaire.html    # Main HTML structure
 ├── styles.css            # Sophos-branded CSS styles
 ├── script.js             # JavaScript functionality
@@ -122,7 +120,7 @@ start questionnaire.html
 - **Browser Print API** — Native PDF generation
 
 ### Browser Support
-- ✅ Google Chrome (recommended)
+- ✅ Google Chrome
 - ✅ Mozilla Firefox
 - ✅ Microsoft Edge
 - ✅ Safari
@@ -230,15 +228,6 @@ This questionnaire tool is intended for internal use by Sophos and its authorize
 
 ---
 
-## 📞 Support
-
-For questions or issues related to this questionnaire tool, please contact your Sophos representative or the IMR Advisory Services team.
-
-**Email:** secureworks_services@secureworks.com
-
----
-
 <p align="center">
-  <strong>© 2025 Sophos Ltd. All rights reserved.</strong><br>
   <em>Sophos and Sophos Logo are registered trademarks of Sophos Limited.</em>
 </p>
