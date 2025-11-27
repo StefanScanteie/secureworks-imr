@@ -215,8 +215,6 @@ This questionnaire tool is intended for internal use by Sophos and its authorize
 ### Usage Rights
 
 - Sophos brand assets (logo, colors, typography) used per [Sophos Brand Guidelines](https://brand.sophos.com)
-- For authorized business use only
-- Redistribution requires written approval from Sophos Ltd.
 
 ### Third-Party Attributions
 
@@ -225,9 +223,3 @@ This questionnaire tool is intended for internal use by Sophos and its authorize
 | [Montserrat Font](https://fonts.google.com/specimen/Montserrat) | [SIL Open Font License](https://scripts.sil.org/OFL) |
 | [Heroicons](https://heroicons.com/) | [MIT License](https://github.com/tailwindlabs/heroicons/blob/master/LICENSE) |
 | [Perplexity AI](https://www.perplexity.ai/) | External service |
-
----
-
-<p align="center">
-  <em>Sophos and Sophos Logo are registered trademarks of Sophos Limited.</em>
-</p>
