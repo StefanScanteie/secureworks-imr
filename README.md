@@ -223,3 +223,11 @@ This questionnaire tool is intended for internal use by Sophos and its authorize
 | [Montserrat Font](https://fonts.google.com/specimen/Montserrat) | [SIL Open Font License](https://scripts.sil.org/OFL) |
 | [Heroicons](https://heroicons.com/) | [MIT License](https://github.com/tailwindlabs/heroicons/blob/master/LICENSE) |
 | [Perplexity AI](https://www.perplexity.ai/) | External service |
+
+---
+
+<p align="center">
+  Built with ❤️ by Ștefan, with guidance from Claude Opus.
+</p>
+
+
