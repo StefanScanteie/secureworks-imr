@@ -167,7 +167,5 @@ For questions or issues related to this questionnaire tool, please contact your 
 
 ---
 
-© 2024 Sophos Ltd. All rights reserved.
-
 *Sophos and Sophos Logo are registered trademarks of Sophos Limited. All other product and company names mentioned are trademarks or registered trademarks of their respective owners.*
 
