@@ -2,8 +2,6 @@
 
 A dynamic, interactive web-based questionnaire for Sophos Incident Management and Response (IMR) Advisory Services. This tool helps prospects identify their security needs and receive tailored recommendations from the IMR service catalog.
 
-![Sophos](https://www.sophos.com/sites/default/files/2022-02/sophos-logo.svg)
-
 ---
 
 ## Features
