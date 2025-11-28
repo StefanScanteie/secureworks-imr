@@ -56,7 +56,7 @@ A modern, interactive web-based questionnaire for Secureworks Incident Managemen
 
 ```
 root/
-├── questionnaire.html    # Main HTML structure
+├── index.html            # Main HTML structure
 ├── styles.css            # Sophos-branded CSS styles
 ├── script.js             # JavaScript functionality
 ├── sophos-logo.svg       # Sophos logo asset
@@ -70,18 +70,18 @@ root/
 ### Running Locally
 
 1. Clone or download this repository
-2. Open `questionnaire.html` in any modern web browser
+2. Open `index.html` in any modern web browser
 3. No server, build process, or dependencies required
 
 ```bash
 # macOS
-open questionnaire.html
+open index.html
 
 # Linux
-xdg-open questionnaire.html
+xdg-open index.html
 
 # Windows
-start questionnaire.html
+start index.html
 ```
 
 ### Using the Questionnaire
@@ -148,7 +148,7 @@ start questionnaire.html
 
 ### Adding New Services
 
-1. Add HTML in `questionnaire.html`:
+1. Add HTML in `index.html`:
 ```html
 <div class="service-block">
     <div class="service-header">
@@ -187,7 +187,17 @@ const serviceDocSlugs = {
 
 ## 📋 Changelog
 
-### v2.0 (Current)
+### v2.5 (Current)
+- ✅ Redesigned layout to macOS Settings-style two-panel view
+- ✅ Added fixed sidebar with category navigation and icons
+- ✅ Independent scrolling for sidebar and main content
+- ✅ Blue dot indicators on categories with selections
+- ✅ URL hash navigation with browser back/forward support
+- ✅ Remembers last viewed section on page reload
+- ✅ Renamed main file to `index.html` for GitHub Pages compatibility
+- ✅ Updated Introduction page content
+
+### v2.0
 - ✅ Added "Explain with AI" buttons (Perplexity integration)
 - ✅ Added progress tracking bar with counters
 - ✅ Added Expand All / Collapse All controls
